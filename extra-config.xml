@@ -1,0 +1,7 @@
+<clickhouse>
+    <profiles>
+        <default>
+            <wait_for_async_insert_timeout>1</wait_for_async_insert_timeout>
+        </default>
+    </profiles>
+</clickhouse>
